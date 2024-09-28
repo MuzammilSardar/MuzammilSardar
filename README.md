@@ -7,11 +7,11 @@
 - 💞️ I’m looking to collaborate in game development.
 - 📫 You can reach me through email: Muzammilsardarabbasi@gmail.com
 - ⚡ Fun fact:
-  I also have Passionate about game development and design
-  Enjoy experimenting with 3D modeling using Blender
-  Have built several Arduino-based projects, combining hardware and software to create innovative solutions
-  Love solving challenging coding problems and automating everyday tasks
-  Always exploring new technologies and tools in the world of software engineering
+  I am Passionate about game development and design.
+  Enjoy experimenting with 3D modeling using Blender.
+  Have built several Arduino-based projects, combining hardware and software to create innovative solutions.
+  Love solving challenging coding problems and automating everyday tasks.
+  Always exploring new technologies and tools in the world of software engineering.
 
 <!---
 MuzammilSardar/MuzammilSardar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
